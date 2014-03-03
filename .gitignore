@@ -6,6 +6,8 @@
 # Packages
 *.egg
 *.egg-info
+data
+predictions
 dist
 build
 eggs
